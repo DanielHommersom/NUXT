@@ -1,0 +1,32 @@
+{
+  "ContentfulEntry": {
+    "description": "Auto imported from components/ContentfulEntry.vue"
+  },
+  "ContentfulHeader": {
+    "description": "Auto imported from components/ContentfulHeader.vue"
+  },
+  "ContentfulImage": {
+    "description": "Auto imported from components/ContentfulImage.vue"
+  },
+  "ContentfulJumbotron": {
+    "description": "Auto imported from components/ContentfulJumbotron.vue"
+  },
+  "ContentfulOrderedList": {
+    "description": "Auto imported from components/ContentfulOrderedList.vue"
+  },
+  "ContentfulParagraph": {
+    "description": "Auto imported from components/ContentfulParagraph.vue"
+  },
+  "ContentfulProduct": {
+    "description": "Auto imported from components/ContentfulProduct.vue"
+  },
+  "ContentfulTemplate": {
+    "description": "Auto imported from components/ContentfulTemplate.vue"
+  },
+  "ContentfulUnorderedList": {
+    "description": "Auto imported from components/ContentfulUnorderedList.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  }
+}
